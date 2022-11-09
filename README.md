@@ -7,7 +7,7 @@
 
 
 * Refer: [Refer ](https://github.com/ritsat/swipeable_button_example?ref=flutterawesome.com)
-* For Youtube: [YouTube](https://www.youtube.com/watch?v=F3-BM_jiLak)
+* For Youtube: [YouTube](https://youtu.be/id1uGixMtGY)
 
 
 # How to Use 
